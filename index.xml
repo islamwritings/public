@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ghostwriter example</title>
+    <title>Islam Writings</title>
     <link>https://islam.netlify.com/</link>
-    <description>Recent content on Ghostwriter example</description>
+    <description>Recent content on Islam Writings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>My Name</copyright>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="https://islam.netlify.com/index.xml" rel="self" type="application/rss+xml" />
