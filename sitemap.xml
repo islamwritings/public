@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://islam.netlify.com/categories/</loc>
+    <loc>https://islam.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://islam.netlify.com/</loc>
+    <loc>https://islam.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://islam.netlify.com/tags/</loc>
+    <loc>https://islam.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
